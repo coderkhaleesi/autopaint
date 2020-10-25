@@ -1,1 +1,3 @@
 # autopaint
+
+![SystemDiagram](/SystemDiagram.png)
